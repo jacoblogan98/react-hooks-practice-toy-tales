@@ -46,7 +46,13 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 7
+    },
+    {
+      "name": "Shrek",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Shrek_%28character%29.png",
+      "likes": 4,
+      "id": 9
     }
   ]
 }
